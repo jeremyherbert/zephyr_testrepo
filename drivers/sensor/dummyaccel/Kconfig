@@ -1,0 +1,5 @@
+config DUMMYACCEL
+	bool "Dummy Accelerometer"
+	help
+	  Enable dummy accelerometer sensor
+
